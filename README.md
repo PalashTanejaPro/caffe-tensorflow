@@ -1,6 +1,5 @@
-# Caffe to TensorFlow-1.2
+# Caffe to TensorFlow
 
-Some minor changes to the [Caffe-to-Tensorflow](https://github.com/ethereon/caffe-tensorflow) project, supporting the latest version of tensorflow (1.2). 
 Convert [Caffe](https://github.com/BVLC/caffe/) models to [TensorFlow](https://github.com/tensorflow/tensorflow).
 
 ## Usage
